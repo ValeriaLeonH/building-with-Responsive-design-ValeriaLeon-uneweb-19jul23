@@ -116,7 +116,6 @@ img{
     border-left: 1px solid var(--gray-two);
 }
 
-
 /* end mobile screen style*/
 
 /* tablet screen style*/
@@ -189,6 +188,10 @@ img{
 
     .link-item-bottom-navbar:hover{
         color: black;
+    }
+
+    .icon-menu-outline{
+        display:none;
     }
 
 }
